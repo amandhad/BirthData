@@ -1,0 +1,1225 @@
+﻿state_of_residence,month,month_code,year_code,sex_of_infant,births
+Alabama,January,1,2025,Female,2402
+Alabama,January,1,2025,Male,2600
+Alabama,February,2,2025,Female,2214
+Alabama,February,2,2025,Male,2194
+Alabama,March,3,2025,Female,2220
+Alabama,March,3,2025,Male,2292
+Alabama,April,4,2025,Female,2197
+Alabama,April,4,2025,Male,2375
+Alabama,May,5,2025,Female,2277
+Alabama,May,5,2025,Male,2375
+Alabama,June,6,2025,Female,2200
+Alabama,June,6,2025,Male,2395
+Alabama,July,7,2025,Female,2551
+Alabama,July,7,2025,Male,2535
+Alabama,August,8,2025,Female,2496
+Alabama,August,8,2025,Male,2515
+Alabama,September,9,2025,Female,2417
+Alabama,September,9,2025,Male,2530
+Alabama,October,10,2025,Female,2441
+Alabama,October,10,2025,Male,2553
+Alabama,November,11,2025,Female,2166
+Alabama,November,11,2025,Male,2274
+Alabama,December,12,2025,Female,2382
+Alabama,December,12,2025,Male,2516
+Alaska,January,1,2025,Female,333
+Alaska,January,1,2025,Male,380
+Alaska,February,2,2025,Female,345
+Alaska,February,2,2025,Male,312
+Alaska,March,3,2025,Female,367
+Alaska,March,3,2025,Male,412
+Alaska,April,4,2025,Female,352
+Alaska,April,4,2025,Male,351
+Alaska,May,5,2025,Female,412
+Alaska,May,5,2025,Male,385
+Alaska,June,6,2025,Female,366
+Alaska,June,6,2025,Male,412
+Alaska,July,7,2025,Female,383
+Alaska,July,7,2025,Male,424
+Alaska,August,8,2025,Female,372
+Alaska,August,8,2025,Male,416
+Alaska,September,9,2025,Female,343
+Alaska,September,9,2025,Male,389
+Alaska,October,10,2025,Female,375
+Alaska,October,10,2025,Male,409
+Alaska,November,11,2025,Female,354
+Alaska,November,11,2025,Male,355
+Alaska,December,12,2025,Female,283
+Alaska,December,12,2025,Male,270
+Arizona,January,1,2025,Female,3270
+Arizona,January,1,2025,Male,3482
+Arizona,February,2,2025,Female,2984
+Arizona,February,2,2025,Male,3264
+Arizona,March,3,2025,Female,3111
+Arizona,March,3,2025,Male,3286
+Arizona,April,4,2025,Female,3016
+Arizona,April,4,2025,Male,3011
+Arizona,May,5,2025,Female,3047
+Arizona,May,5,2025,Male,3244
+Arizona,June,6,2025,Female,2980
+Arizona,June,6,2025,Male,3189
+Arizona,July,7,2025,Female,3135
+Arizona,July,7,2025,Male,3293
+Arizona,August,8,2025,Female,3483
+Arizona,August,8,2025,Male,3557
+Arizona,September,9,2025,Female,3371
+Arizona,September,9,2025,Male,3475
+Arizona,October,10,2025,Female,3333
+Arizona,October,10,2025,Male,3603
+Arizona,November,11,2025,Female,3256
+Arizona,November,11,2025,Male,3338
+Arizona,December,12,2025,Female,3474
+Arizona,December,12,2025,Male,3422
+Arkansas,January,1,2025,Female,1483
+Arkansas,January,1,2025,Male,1542
+Arkansas,February,2,2025,Female,1272
+Arkansas,February,2,2025,Male,1442
+Arkansas,March,3,2025,Female,1389
+Arkansas,March,3,2025,Male,1520
+Arkansas,April,4,2025,Female,1397
+Arkansas,April,4,2025,Male,1423
+Arkansas,May,5,2025,Female,1450
+Arkansas,May,5,2025,Male,1455
+Arkansas,June,6,2025,Female,1413
+Arkansas,June,6,2025,Male,1487
+Arkansas,July,7,2025,Female,1595
+Arkansas,July,7,2025,Male,1678
+Arkansas,August,8,2025,Female,1569
+Arkansas,August,8,2025,Male,1609
+Arkansas,September,9,2025,Female,1481
+Arkansas,September,9,2025,Male,1490
+Arkansas,October,10,2025,Female,1486
+Arkansas,October,10,2025,Male,1591
+Arkansas,November,11,2025,Female,1319
+Arkansas,November,11,2025,Male,1351
+Arkansas,December,12,2025,Female,1504
+Arkansas,December,12,2025,Male,1598
+California,January,1,2025,Female,16316
+California,January,1,2025,Male,17400
+California,February,2,2025,Female,14832
+California,February,2,2025,Male,15506
+California,March,3,2025,Female,15749
+California,March,3,2025,Male,16610
+California,April,4,2025,Female,15200
+California,April,4,2025,Male,15715
+California,May,5,2025,Female,15872
+California,May,5,2025,Male,16696
+California,June,6,2025,Female,15612
+California,June,6,2025,Male,16331
+California,July,7,2025,Female,17002
+California,July,7,2025,Male,17538
+California,August,8,2025,Female,17263
+California,August,8,2025,Male,17627
+California,September,9,2025,Female,16399
+California,September,9,2025,Male,17225
+California,October,10,2025,Female,16545
+California,October,10,2025,Male,17284
+California,November,11,2025,Female,15413
+California,November,11,2025,Male,15974
+California,December,12,2025,Female,16049
+California,December,12,2025,Male,16953
+Colorado,January,1,2025,Female,2611
+Colorado,January,1,2025,Male,2772
+Colorado,February,2,2025,Female,2376
+Colorado,February,2,2025,Male,2554
+Colorado,March,3,2025,Female,2742
+Colorado,March,3,2025,Male,2789
+Colorado,April,4,2025,Female,2615
+Colorado,April,4,2025,Male,2758
+Colorado,May,5,2025,Female,2720
+Colorado,May,5,2025,Male,2849
+Colorado,June,6,2025,Female,2783
+Colorado,June,6,2025,Male,2836
+Colorado,July,7,2025,Female,2890
+Colorado,July,7,2025,Male,2930
+Colorado,August,8,2025,Female,2798
+Colorado,August,8,2025,Male,2882
+Colorado,September,9,2025,Female,2736
+Colorado,September,9,2025,Male,3001
+Colorado,October,10,2025,Female,2655
+Colorado,October,10,2025,Male,2785
+Colorado,November,11,2025,Female,2437
+Colorado,November,11,2025,Male,2558
+Colorado,December,12,2025,Female,2589
+Colorado,December,12,2025,Male,2699
+Connecticut,January,1,2025,Female,1435
+Connecticut,January,1,2025,Male,1467
+Connecticut,February,2,2025,Female,1250
+Connecticut,February,2,2025,Male,1276
+Connecticut,March,3,2025,Female,1372
+Connecticut,March,3,2025,Male,1409
+Connecticut,April,4,2025,Female,1341
+Connecticut,April,4,2025,Male,1395
+Connecticut,May,5,2025,Female,1551
+Connecticut,May,5,2025,Male,1578
+Connecticut,June,6,2025,Female,1451
+Connecticut,June,6,2025,Male,1544
+Connecticut,July,7,2025,Female,1541
+Connecticut,July,7,2025,Male,1674
+Connecticut,August,8,2025,Female,1563
+Connecticut,August,8,2025,Male,1609
+Connecticut,September,9,2025,Female,1405
+Connecticut,September,9,2025,Male,1415
+Connecticut,October,10,2025,Female,1472
+Connecticut,October,10,2025,Male,1541
+Connecticut,November,11,2025,Female,1270
+Connecticut,November,11,2025,Male,1293
+Connecticut,December,12,2025,Female,1336
+Connecticut,December,12,2025,Male,1481
+Delaware,January,1,2025,Female,450
+Delaware,January,1,2025,Male,469
+Delaware,February,2,2025,Female,400
+Delaware,February,2,2025,Male,414
+Delaware,March,3,2025,Female,427
+Delaware,March,3,2025,Male,432
+Delaware,April,4,2025,Female,407
+Delaware,April,4,2025,Male,441
+Delaware,May,5,2025,Female,423
+Delaware,May,5,2025,Male,428
+Delaware,June,6,2025,Female,396
+Delaware,June,6,2025,Male,446
+Delaware,July,7,2025,Female,456
+Delaware,July,7,2025,Male,516
+Delaware,August,8,2025,Female,498
+Delaware,August,8,2025,Male,468
+Delaware,September,9,2025,Female,404
+Delaware,September,9,2025,Male,440
+Delaware,October,10,2025,Female,434
+Delaware,October,10,2025,Male,419
+Delaware,November,11,2025,Female,376
+Delaware,November,11,2025,Male,403
+Delaware,December,12,2025,Female,408
+Delaware,December,12,2025,Male,428
+District of Columbia,January,1,2025,Female,314
+District of Columbia,January,1,2025,Male,331
+District of Columbia,February,2,2025,Female,312
+District of Columbia,February,2,2025,Male,287
+District of Columbia,March,3,2025,Female,293
+District of Columbia,March,3,2025,Male,308
+District of Columbia,April,4,2025,Female,272
+District of Columbia,April,4,2025,Male,270
+District of Columbia,May,5,2025,Female,274
+District of Columbia,May,5,2025,Male,278
+District of Columbia,June,6,2025,Female,303
+District of Columbia,June,6,2025,Male,284
+District of Columbia,July,7,2025,Female,354
+District of Columbia,July,7,2025,Male,325
+District of Columbia,August,8,2025,Female,322
+District of Columbia,August,8,2025,Male,319
+District of Columbia,September,9,2025,Female,341
+District of Columbia,September,9,2025,Male,313
+District of Columbia,October,10,2025,Female,308
+District of Columbia,October,10,2025,Male,291
+District of Columbia,November,11,2025,Female,278
+District of Columbia,November,11,2025,Male,274
+District of Columbia,December,12,2025,Female,317
+District of Columbia,December,12,2025,Male,335
+Florida,January,1,2025,Female,9604
+Florida,January,1,2025,Male,9947
+Florida,February,2,2025,Female,8290
+Florida,February,2,2025,Male,8875
+Florida,March,3,2025,Female,8864
+Florida,March,3,2025,Male,9213
+Florida,April,4,2025,Female,8586
+Florida,April,4,2025,Male,8807
+Florida,May,5,2025,Female,8789
+Florida,May,5,2025,Male,9484
+Florida,June,6,2025,Female,8583
+Florida,June,6,2025,Male,9092
+Florida,July,7,2025,Female,9504
+Florida,July,7,2025,Male,9889
+Florida,August,8,2025,Female,9735
+Florida,August,8,2025,Male,10306
+Florida,September,9,2025,Female,9729
+Florida,September,9,2025,Male,9968
+Florida,October,10,2025,Female,9485
+Florida,October,10,2025,Male,9938
+Florida,November,11,2025,Female,8690
+Florida,November,11,2025,Male,9200
+Florida,December,12,2025,Female,9519
+Florida,December,12,2025,Male,9874
+Georgia,January,1,2025,Female,5232
+Georgia,January,1,2025,Male,5543
+Georgia,February,2,2025,Female,4785
+Georgia,February,2,2025,Male,4945
+Georgia,March,3,2025,Female,5161
+Georgia,March,3,2025,Male,5343
+Georgia,April,4,2025,Female,4945
+Georgia,April,4,2025,Male,4964
+Georgia,May,5,2025,Female,5031
+Georgia,May,5,2025,Male,5163
+Georgia,June,6,2025,Female,4874
+Georgia,June,6,2025,Male,5221
+Georgia,July,7,2025,Female,5488
+Georgia,July,7,2025,Male,5684
+Georgia,August,8,2025,Female,5326
+Georgia,August,8,2025,Male,5605
+Georgia,September,9,2025,Female,5282
+Georgia,September,9,2025,Male,5420
+Georgia,October,10,2025,Female,5255
+Georgia,October,10,2025,Male,5283
+Georgia,November,11,2025,Female,4694
+Georgia,November,11,2025,Male,4998
+Georgia,December,12,2025,Female,5361
+Georgia,December,12,2025,Male,5569
+Hawaii,January,1,2025,Female,611
+Hawaii,January,1,2025,Male,666
+Hawaii,February,2,2025,Female,540
+Hawaii,February,2,2025,Male,566
+Hawaii,March,3,2025,Female,550
+Hawaii,March,3,2025,Male,573
+Hawaii,April,4,2025,Female,609
+Hawaii,April,4,2025,Male,591
+Hawaii,May,5,2025,Female,631
+Hawaii,May,5,2025,Male,656
+Hawaii,June,6,2025,Female,574
+Hawaii,June,6,2025,Male,624
+Hawaii,July,7,2025,Female,572
+Hawaii,July,7,2025,Male,618
+Hawaii,August,8,2025,Female,596
+Hawaii,August,8,2025,Male,596
+Hawaii,September,9,2025,Female,603
+Hawaii,September,9,2025,Male,623
+Hawaii,October,10,2025,Female,553
+Hawaii,October,10,2025,Male,627
+Hawaii,November,11,2025,Female,567
+Hawaii,November,11,2025,Male,609
+Hawaii,December,12,2025,Female,631
+Hawaii,December,12,2025,Male,656
+Idaho,January,1,2025,Female,918
+Idaho,January,1,2025,Male,1024
+Idaho,February,2,2025,Female,869
+Idaho,February,2,2025,Male,881
+Idaho,March,3,2025,Female,964
+Idaho,March,3,2025,Male,1034
+Idaho,April,4,2025,Female,1014
+Idaho,April,4,2025,Male,999
+Idaho,May,5,2025,Female,1043
+Idaho,May,5,2025,Male,1132
+Idaho,June,6,2025,Female,1066
+Idaho,June,6,2025,Male,1016
+Idaho,July,7,2025,Female,1059
+Idaho,July,7,2025,Male,1146
+Idaho,August,8,2025,Female,1003
+Idaho,August,8,2025,Male,1090
+Idaho,September,9,2025,Female,1026
+Idaho,September,9,2025,Male,960
+Idaho,October,10,2025,Female,1049
+Idaho,October,10,2025,Male,1009
+Idaho,November,11,2025,Female,866
+Idaho,November,11,2025,Male,914
+Idaho,December,12,2025,Female,945
+Idaho,December,12,2025,Male,1034
+Illinois,January,1,2025,Female,5039
+Illinois,January,1,2025,Male,5281
+Illinois,February,2,2025,Female,4519
+Illinois,February,2,2025,Male,4813
+Illinois,March,3,2025,Female,5066
+Illinois,March,3,2025,Male,5237
+Illinois,April,4,2025,Female,4922
+Illinois,April,4,2025,Male,5191
+Illinois,May,5,2025,Female,5199
+Illinois,May,5,2025,Male,5581
+Illinois,June,6,2025,Female,5135
+Illinois,June,6,2025,Male,5308
+Illinois,July,7,2025,Female,5625
+Illinois,July,7,2025,Male,5795
+Illinois,August,8,2025,Female,5362
+Illinois,August,8,2025,Male,5698
+Illinois,September,9,2025,Female,5145
+Illinois,September,9,2025,Male,5325
+Illinois,October,10,2025,Female,5091
+Illinois,October,10,2025,Male,5214
+Illinois,November,11,2025,Female,4799
+Illinois,November,11,2025,Male,4926
+Illinois,December,12,2025,Female,5087
+Illinois,December,12,2025,Male,5269
+Indiana,January,1,2025,Female,3194
+Indiana,January,1,2025,Male,3389
+Indiana,February,2,2025,Female,3001
+Indiana,February,2,2025,Male,3009
+Indiana,March,3,2025,Female,3245
+Indiana,March,3,2025,Male,3281
+Indiana,April,4,2025,Female,3178
+Indiana,April,4,2025,Male,3342
+Indiana,May,5,2025,Female,3249
+Indiana,May,5,2025,Male,3511
+Indiana,June,6,2025,Female,3219
+Indiana,June,6,2025,Male,3473
+Indiana,July,7,2025,Female,3506
+Indiana,July,7,2025,Male,3699
+Indiana,August,8,2025,Female,3503
+Indiana,August,8,2025,Male,3511
+Indiana,September,9,2025,Female,3345
+Indiana,September,9,2025,Male,3512
+Indiana,October,10,2025,Female,3425
+Indiana,October,10,2025,Male,3437
+Indiana,November,11,2025,Female,2929
+Indiana,November,11,2025,Male,3096
+Indiana,December,12,2025,Female,3318
+Indiana,December,12,2025,Male,3356
+Iowa,January,1,2025,Female,1471
+Iowa,January,1,2025,Male,1504
+Iowa,February,2,2025,Female,1405
+Iowa,February,2,2025,Male,1422
+Iowa,March,3,2025,Female,1484
+Iowa,March,3,2025,Male,1571
+Iowa,April,4,2025,Female,1461
+Iowa,April,4,2025,Male,1546
+Iowa,May,5,2025,Female,1584
+Iowa,May,5,2025,Male,1721
+Iowa,June,6,2025,Female,1490
+Iowa,June,6,2025,Male,1541
+Iowa,July,7,2025,Female,1584
+Iowa,July,7,2025,Male,1659
+Iowa,August,8,2025,Female,1533
+Iowa,August,8,2025,Male,1683
+Iowa,September,9,2025,Female,1468
+Iowa,September,9,2025,Male,1589
+Iowa,October,10,2025,Female,1516
+Iowa,October,10,2025,Male,1577
+Iowa,November,11,2025,Female,1344
+Iowa,November,11,2025,Male,1386
+Iowa,December,12,2025,Female,1466
+Iowa,December,12,2025,Male,1560
+Kansas,January,1,2025,Female,1419
+Kansas,January,1,2025,Male,1445
+Kansas,February,2,2025,Female,1295
+Kansas,February,2,2025,Male,1384
+Kansas,March,3,2025,Female,1430
+Kansas,March,3,2025,Male,1453
+Kansas,April,4,2025,Female,1385
+Kansas,April,4,2025,Male,1443
+Kansas,May,5,2025,Female,1359
+Kansas,May,5,2025,Male,1501
+Kansas,June,6,2025,Female,1397
+Kansas,June,6,2025,Male,1470
+Kansas,July,7,2025,Female,1484
+Kansas,July,7,2025,Male,1585
+Kansas,August,8,2025,Female,1543
+Kansas,August,8,2025,Male,1476
+Kansas,September,9,2025,Female,1499
+Kansas,September,9,2025,Male,1524
+Kansas,October,10,2025,Female,1456
+Kansas,October,10,2025,Male,1483
+Kansas,November,11,2025,Female,1237
+Kansas,November,11,2025,Male,1354
+Kansas,December,12,2025,Female,1416
+Kansas,December,12,2025,Male,1500
+Kentucky,January,1,2025,Female,2180
+Kentucky,January,1,2025,Male,2283
+Kentucky,February,2,2025,Female,2019
+Kentucky,February,2,2025,Male,2098
+Kentucky,March,3,2025,Female,2086
+Kentucky,March,3,2025,Male,2226
+Kentucky,April,4,2025,Female,2063
+Kentucky,April,4,2025,Male,2228
+Kentucky,May,5,2025,Female,2192
+Kentucky,May,5,2025,Male,2232
+Kentucky,June,6,2025,Female,2148
+Kentucky,June,6,2025,Male,2272
+Kentucky,July,7,2025,Female,2341
+Kentucky,July,7,2025,Male,2534
+Kentucky,August,8,2025,Female,2254
+Kentucky,August,8,2025,Male,2384
+Kentucky,September,9,2025,Female,2204
+Kentucky,September,9,2025,Male,2281
+Kentucky,October,10,2025,Female,2117
+Kentucky,October,10,2025,Male,2258
+Kentucky,November,11,2025,Female,1908
+Kentucky,November,11,2025,Male,2037
+Kentucky,December,12,2025,Female,2128
+Kentucky,December,12,2025,Male,2243
+Louisiana,January,1,2025,Female,2196
+Louisiana,January,1,2025,Male,2245
+Louisiana,February,2,2025,Female,1813
+Louisiana,February,2,2025,Male,2081
+Louisiana,March,3,2025,Female,2020
+Louisiana,March,3,2025,Male,2100
+Louisiana,April,4,2025,Female,2009
+Louisiana,April,4,2025,Male,1991
+Louisiana,May,5,2025,Female,2066
+Louisiana,May,5,2025,Male,2133
+Louisiana,June,6,2025,Female,2089
+Louisiana,June,6,2025,Male,2131
+Louisiana,July,7,2025,Female,2231
+Louisiana,July,7,2025,Male,2364
+Louisiana,August,8,2025,Female,2128
+Louisiana,August,8,2025,Male,2320
+Louisiana,September,9,2025,Female,2184
+Louisiana,September,9,2025,Male,2318
+Louisiana,October,10,2025,Female,2208
+Louisiana,October,10,2025,Male,2258
+Louisiana,November,11,2025,Female,2054
+Louisiana,November,11,2025,Male,2101
+Louisiana,December,12,2025,Female,2163
+Louisiana,December,12,2025,Male,2172
+Maine,January,1,2025,Female,450
+Maine,January,1,2025,Male,478
+Maine,February,2,2025,Female,453
+Maine,February,2,2025,Male,474
+Maine,March,3,2025,Female,495
+Maine,March,3,2025,Male,542
+Maine,April,4,2025,Female,458
+Maine,April,4,2025,Male,514
+Maine,May,5,2025,Female,526
+Maine,May,5,2025,Male,567
+Maine,June,6,2025,Female,488
+Maine,June,6,2025,Male,521
+Maine,July,7,2025,Female,522
+Maine,July,7,2025,Male,582
+Maine,August,8,2025,Female,523
+Maine,August,8,2025,Male,555
+Maine,September,9,2025,Female,512
+Maine,September,9,2025,Male,491
+Maine,October,10,2025,Female,529
+Maine,October,10,2025,Male,524
+Maine,November,11,2025,Female,472
+Maine,November,11,2025,Male,457
+Maine,December,12,2025,Female,490
+Maine,December,12,2025,Male,509
+Maryland,January,1,2025,Female,2682
+Maryland,January,1,2025,Male,2727
+Maryland,February,2,2025,Female,2531
+Maryland,February,2,2025,Male,2514
+Maryland,March,3,2025,Female,2531
+Maryland,March,3,2025,Male,2823
+Maryland,April,4,2025,Female,2465
+Maryland,April,4,2025,Male,2574
+Maryland,May,5,2025,Female,2668
+Maryland,May,5,2025,Male,2711
+Maryland,June,6,2025,Female,2590
+Maryland,June,6,2025,Male,2754
+Maryland,July,7,2025,Female,2810
+Maryland,July,7,2025,Male,2957
+Maryland,August,8,2025,Female,2761
+Maryland,August,8,2025,Male,2869
+Maryland,September,9,2025,Female,2643
+Maryland,September,9,2025,Male,2862
+Maryland,October,10,2025,Female,2458
+Maryland,October,10,2025,Male,2738
+Maryland,November,11,2025,Female,2330
+Maryland,November,11,2025,Male,2569
+Maryland,December,12,2025,Female,2502
+Maryland,December,12,2025,Male,2783
+Massachusetts,January,1,2025,Female,2727
+Massachusetts,January,1,2025,Male,2919
+Massachusetts,February,2,2025,Female,2509
+Massachusetts,February,2,2025,Male,2648
+Massachusetts,March,3,2025,Female,2699
+Massachusetts,March,3,2025,Male,2904
+Massachusetts,April,4,2025,Female,2772
+Massachusetts,April,4,2025,Male,2924
+Massachusetts,May,5,2025,Female,2870
+Massachusetts,May,5,2025,Male,2886
+Massachusetts,June,6,2025,Female,2807
+Massachusetts,June,6,2025,Male,2849
+Massachusetts,July,7,2025,Female,3009
+Massachusetts,July,7,2025,Male,3134
+Massachusetts,August,8,2025,Female,2997
+Massachusetts,August,8,2025,Male,3079
+Massachusetts,September,9,2025,Female,2756
+Massachusetts,September,9,2025,Male,2946
+Massachusetts,October,10,2025,Female,2743
+Massachusetts,October,10,2025,Male,2902
+Massachusetts,November,11,2025,Female,2455
+Massachusetts,November,11,2025,Male,2569
+Massachusetts,December,12,2025,Female,2647
+Massachusetts,December,12,2025,Male,2768
+Michigan,January,1,2025,Female,3903
+Michigan,January,1,2025,Male,4115
+Michigan,February,2,2025,Female,3699
+Michigan,February,2,2025,Male,3980
+Michigan,March,3,2025,Female,3992
+Michigan,March,3,2025,Male,4306
+Michigan,April,4,2025,Female,4042
+Michigan,April,4,2025,Male,4279
+Michigan,May,5,2025,Female,4133
+Michigan,May,5,2025,Male,4607
+Michigan,June,6,2025,Female,4246
+Michigan,June,6,2025,Male,4481
+Michigan,July,7,2025,Female,4389
+Michigan,July,7,2025,Male,4603
+Michigan,August,8,2025,Female,4468
+Michigan,August,8,2025,Male,4498
+Michigan,September,9,2025,Female,4159
+Michigan,September,9,2025,Male,4348
+Michigan,October,10,2025,Female,4033
+Michigan,October,10,2025,Male,4167
+Michigan,November,11,2025,Female,3709
+Michigan,November,11,2025,Male,3813
+Michigan,December,12,2025,Female,3884
+Michigan,December,12,2025,Male,4132
+Minnesota,January,1,2025,Female,2511
+Minnesota,January,1,2025,Male,2566
+Minnesota,February,2,2025,Female,2311
+Minnesota,February,2,2025,Male,2411
+Minnesota,March,3,2025,Female,2528
+Minnesota,March,3,2025,Male,2794
+Minnesota,April,4,2025,Female,2515
+Minnesota,April,4,2025,Male,2762
+Minnesota,May,5,2025,Female,2716
+Minnesota,May,5,2025,Male,2744
+Minnesota,June,6,2025,Female,2579
+Minnesota,June,6,2025,Male,2786
+Minnesota,July,7,2025,Female,2752
+Minnesota,July,7,2025,Male,2870
+Minnesota,August,8,2025,Female,2602
+Minnesota,August,8,2025,Male,2808
+Minnesota,September,9,2025,Female,2511
+Minnesota,September,9,2025,Male,2635
+Minnesota,October,10,2025,Female,2562
+Minnesota,October,10,2025,Male,2690
+Minnesota,November,11,2025,Female,2312
+Minnesota,November,11,2025,Male,2405
+Minnesota,December,12,2025,Female,2495
+Minnesota,December,12,2025,Male,2511
+Mississippi,January,1,2025,Female,1365
+Mississippi,January,1,2025,Male,1433
+Mississippi,February,2,2025,Female,1195
+Mississippi,February,2,2025,Male,1292
+Mississippi,March,3,2025,Female,1293
+Mississippi,March,3,2025,Male,1299
+Mississippi,April,4,2025,Female,1222
+Mississippi,April,4,2025,Male,1321
+Mississippi,May,5,2025,Female,1266
+Mississippi,May,5,2025,Male,1349
+Mississippi,June,6,2025,Female,1386
+Mississippi,June,6,2025,Male,1352
+Mississippi,July,7,2025,Female,1451
+Mississippi,July,7,2025,Male,1482
+Mississippi,August,8,2025,Female,1382
+Mississippi,August,8,2025,Male,1474
+Mississippi,September,9,2025,Female,1440
+Mississippi,September,9,2025,Male,1502
+Mississippi,October,10,2025,Female,1395
+Mississippi,October,10,2025,Male,1562
+Mississippi,November,11,2025,Female,1242
+Mississippi,November,11,2025,Male,1289
+Mississippi,December,12,2025,Female,1474
+Mississippi,December,12,2025,Male,1434
+Missouri,January,1,2025,Female,2806
+Missouri,January,1,2025,Male,2977
+Missouri,February,2,2025,Female,2565
+Missouri,February,2,2025,Male,2750
+Missouri,March,3,2025,Female,2776
+Missouri,March,3,2025,Male,2911
+Missouri,April,4,2025,Female,2837
+Missouri,April,4,2025,Male,2832
+Missouri,May,5,2025,Female,2861
+Missouri,May,5,2025,Male,3012
+Missouri,June,6,2025,Female,2793
+Missouri,June,6,2025,Male,2994
+Missouri,July,7,2025,Female,2995
+Missouri,July,7,2025,Male,3195
+Missouri,August,8,2025,Female,2923
+Missouri,August,8,2025,Male,3046
+Missouri,September,9,2025,Female,2919
+Missouri,September,9,2025,Male,3031
+Missouri,October,10,2025,Female,2856
+Missouri,October,10,2025,Male,2925
+Missouri,November,11,2025,Female,2522
+Missouri,November,11,2025,Male,2685
+Missouri,December,12,2025,Female,2859
+Missouri,December,12,2025,Male,3078
+Montana,January,1,2025,Female,436
+Montana,January,1,2025,Male,455
+Montana,February,2,2025,Female,395
+Montana,February,2,2025,Male,448
+Montana,March,3,2025,Female,448
+Montana,March,3,2025,Male,506
+Montana,April,4,2025,Female,484
+Montana,April,4,2025,Male,515
+Montana,May,5,2025,Female,506
+Montana,May,5,2025,Male,543
+Montana,June,6,2025,Female,485
+Montana,June,6,2025,Male,519
+Montana,July,7,2025,Female,469
+Montana,July,7,2025,Male,555
+Montana,August,8,2025,Female,511
+Montana,August,8,2025,Male,527
+Montana,September,9,2025,Female,453
+Montana,September,9,2025,Male,488
+Montana,October,10,2025,Female,478
+Montana,October,10,2025,Male,489
+Montana,November,11,2025,Female,417
+Montana,November,11,2025,Male,477
+Montana,December,12,2025,Female,488
+Montana,December,12,2025,Male,502
+Nebraska,January,1,2025,Female,925
+Nebraska,January,1,2025,Male,1079
+Nebraska,February,2,2025,Female,834
+Nebraska,February,2,2025,Male,962
+Nebraska,March,3,2025,Female,1010
+Nebraska,March,3,2025,Male,1043
+Nebraska,April,4,2025,Female,994
+Nebraska,April,4,2025,Male,1061
+Nebraska,May,5,2025,Female,1024
+Nebraska,May,5,2025,Male,1088
+Nebraska,June,6,2025,Female,996
+Nebraska,June,6,2025,Male,1090
+Nebraska,July,7,2025,Female,1060
+Nebraska,July,7,2025,Male,1134
+Nebraska,August,8,2025,Female,1014
+Nebraska,August,8,2025,Male,1132
+Nebraska,September,9,2025,Female,992
+Nebraska,September,9,2025,Male,1034
+Nebraska,October,10,2025,Female,1039
+Nebraska,October,10,2025,Male,1028
+Nebraska,November,11,2025,Female,924
+Nebraska,November,11,2025,Male,952
+Nebraska,December,12,2025,Female,1044
+Nebraska,December,12,2025,Male,1025
+Nevada,January,1,2025,Female,1346
+Nevada,January,1,2025,Male,1395
+Nevada,February,2,2025,Female,1140
+Nevada,February,2,2025,Male,1316
+Nevada,March,3,2025,Female,1289
+Nevada,March,3,2025,Male,1380
+Nevada,April,4,2025,Female,1242
+Nevada,April,4,2025,Male,1304
+Nevada,May,5,2025,Female,1333
+Nevada,May,5,2025,Male,1411
+Nevada,June,6,2025,Female,1367
+Nevada,June,6,2025,Male,1281
+Nevada,July,7,2025,Female,1355
+Nevada,July,7,2025,Male,1450
+Nevada,August,8,2025,Female,1368
+Nevada,August,8,2025,Male,1436
+Nevada,September,9,2025,Female,1287
+Nevada,September,9,2025,Male,1394
+Nevada,October,10,2025,Female,1299
+Nevada,October,10,2025,Male,1404
+Nevada,November,11,2025,Female,1243
+Nevada,November,11,2025,Male,1359
+Nevada,December,12,2025,Female,1341
+Nevada,December,12,2025,Male,1420
+New Hampshire,January,1,2025,Female,460
+New Hampshire,January,1,2025,Male,513
+New Hampshire,February,2,2025,Female,421
+New Hampshire,February,2,2025,Male,430
+New Hampshire,March,3,2025,Female,501
+New Hampshire,March,3,2025,Male,540
+New Hampshire,April,4,2025,Female,514
+New Hampshire,April,4,2025,Male,483
+New Hampshire,May,5,2025,Female,507
+New Hampshire,May,5,2025,Male,545
+New Hampshire,June,6,2025,Female,488
+New Hampshire,June,6,2025,Male,528
+New Hampshire,July,7,2025,Female,526
+New Hampshire,July,7,2025,Male,546
+New Hampshire,August,8,2025,Female,523
+New Hampshire,August,8,2025,Male,570
+New Hampshire,September,9,2025,Female,520
+New Hampshire,September,9,2025,Male,560
+New Hampshire,October,10,2025,Female,492
+New Hampshire,October,10,2025,Male,521
+New Hampshire,November,11,2025,Female,456
+New Hampshire,November,11,2025,Male,463
+New Hampshire,December,12,2025,Female,490
+New Hampshire,December,12,2025,Male,525
+New Jersey,January,1,2025,Female,3989
+New Jersey,January,1,2025,Male,4246
+New Jersey,February,2,2025,Female,3649
+New Jersey,February,2,2025,Male,3938
+New Jersey,March,3,2025,Female,3980
+New Jersey,March,3,2025,Male,4207
+New Jersey,April,4,2025,Female,4001
+New Jersey,April,4,2025,Male,4159
+New Jersey,May,5,2025,Female,4151
+New Jersey,May,5,2025,Male,4325
+New Jersey,June,6,2025,Female,4222
+New Jersey,June,6,2025,Male,4329
+New Jersey,July,7,2025,Female,4441
+New Jersey,July,7,2025,Male,4509
+New Jersey,August,8,2025,Female,4304
+New Jersey,August,8,2025,Male,4609
+New Jersey,September,9,2025,Female,4178
+New Jersey,September,9,2025,Male,4443
+New Jersey,October,10,2025,Female,4107
+New Jersey,October,10,2025,Male,4265
+New Jersey,November,11,2025,Female,3815
+New Jersey,November,11,2025,Male,4007
+New Jersey,December,12,2025,Female,4099
+New Jersey,December,12,2025,Male,4254
+New Mexico,January,1,2025,Female,849
+New Mexico,January,1,2025,Male,899
+New Mexico,February,2,2025,Female,803
+New Mexico,February,2,2025,Male,892
+New Mexico,March,3,2025,Female,848
+New Mexico,March,3,2025,Male,847
+New Mexico,April,4,2025,Female,850
+New Mexico,April,4,2025,Male,849
+New Mexico,May,5,2025,Female,872
+New Mexico,May,5,2025,Male,911
+New Mexico,June,6,2025,Female,858
+New Mexico,June,6,2025,Male,877
+New Mexico,July,7,2025,Female,911
+New Mexico,July,7,2025,Male,946
+New Mexico,August,8,2025,Female,981
+New Mexico,August,8,2025,Male,1050
+New Mexico,September,9,2025,Female,893
+New Mexico,September,9,2025,Male,970
+New Mexico,October,10,2025,Female,850
+New Mexico,October,10,2025,Male,882
+New Mexico,November,11,2025,Female,810
+New Mexico,November,11,2025,Male,824
+New Mexico,December,12,2025,Female,672
+New Mexico,December,12,2025,Male,685
+New York,January,1,2025,Female,8315
+New York,January,1,2025,Male,8640
+New York,February,2,2025,Female,7610
+New York,February,2,2025,Male,8007
+New York,March,3,2025,Female,8183
+New York,March,3,2025,Male,8453
+New York,April,4,2025,Female,7988
+New York,April,4,2025,Male,8289
+New York,May,5,2025,Female,8487
+New York,May,5,2025,Male,8749
+New York,June,6,2025,Female,8347
+New York,June,6,2025,Male,8811
+New York,July,7,2025,Female,8655
+New York,July,7,2025,Male,9373
+New York,August,8,2025,Female,8802
+New York,August,8,2025,Male,9145
+New York,September,9,2025,Female,8408
+New York,September,9,2025,Male,8811
+New York,October,10,2025,Female,8493
+New York,October,10,2025,Male,8529
+New York,November,11,2025,Female,7886
+New York,November,11,2025,Male,7901
+New York,December,12,2025,Female,7794
+New York,December,12,2025,Male,8063
+North Carolina,January,1,2025,Female,5211
+North Carolina,January,1,2025,Male,5268
+North Carolina,February,2,2025,Female,4546
+North Carolina,February,2,2025,Male,4723
+North Carolina,March,3,2025,Female,4938
+North Carolina,March,3,2025,Male,5327
+North Carolina,April,4,2025,Female,4860
+North Carolina,April,4,2025,Male,5020
+North Carolina,May,5,2025,Female,4925
+North Carolina,May,5,2025,Male,5244
+North Carolina,June,6,2025,Female,4993
+North Carolina,June,6,2025,Male,5000
+North Carolina,July,7,2025,Female,5394
+North Carolina,July,7,2025,Male,5622
+North Carolina,August,8,2025,Female,5336
+North Carolina,August,8,2025,Male,5628
+North Carolina,September,9,2025,Female,5330
+North Carolina,September,9,2025,Male,5548
+North Carolina,October,10,2025,Female,5116
+North Carolina,October,10,2025,Male,5374
+North Carolina,November,11,2025,Female,4688
+North Carolina,November,11,2025,Male,4781
+North Carolina,December,12,2025,Female,5247
+North Carolina,December,12,2025,Male,5405
+North Dakota,January,1,2025,Female,387
+North Dakota,January,1,2025,Male,413
+North Dakota,February,2,2025,Female,382
+North Dakota,February,2,2025,Male,393
+North Dakota,March,3,2025,Female,410
+North Dakota,March,3,2025,Male,448
+North Dakota,April,4,2025,Female,373
+North Dakota,April,4,2025,Male,456
+North Dakota,May,5,2025,Female,423
+North Dakota,May,5,2025,Male,425
+North Dakota,June,6,2025,Female,408
+North Dakota,June,6,2025,Male,420
+North Dakota,July,7,2025,Female,440
+North Dakota,July,7,2025,Male,507
+North Dakota,August,8,2025,Female,437
+North Dakota,August,8,2025,Male,436
+North Dakota,September,9,2025,Female,385
+North Dakota,September,9,2025,Male,471
+North Dakota,October,10,2025,Female,425
+North Dakota,October,10,2025,Male,438
+North Dakota,November,11,2025,Female,369
+North Dakota,November,11,2025,Male,373
+North Dakota,December,12,2025,Female,382
+North Dakota,December,12,2025,Male,409
+Ohio,January,1,2025,Female,5187
+Ohio,January,1,2025,Male,5391
+Ohio,February,2,2025,Female,4797
+Ohio,February,2,2025,Male,4878
+Ohio,March,3,2025,Female,5253
+Ohio,March,3,2025,Male,5358
+Ohio,April,4,2025,Female,4951
+Ohio,April,4,2025,Male,5365
+Ohio,May,5,2025,Female,5340
+Ohio,May,5,2025,Male,5614
+Ohio,June,6,2025,Female,5297
+Ohio,June,6,2025,Male,5457
+Ohio,July,7,2025,Female,5541
+Ohio,July,7,2025,Male,5875
+Ohio,August,8,2025,Female,5567
+Ohio,August,8,2025,Male,5697
+Ohio,September,9,2025,Female,5288
+Ohio,September,9,2025,Male,5500
+Ohio,October,10,2025,Female,5211
+Ohio,October,10,2025,Male,5382
+Ohio,November,11,2025,Female,4671
+Ohio,November,11,2025,Male,4856
+Ohio,December,12,2025,Female,4999
+Ohio,December,12,2025,Male,5254
+Oklahoma,January,1,2025,Female,1998
+Oklahoma,January,1,2025,Male,2126
+Oklahoma,February,2,2025,Female,1813
+Oklahoma,February,2,2025,Male,1898
+Oklahoma,March,3,2025,Female,1970
+Oklahoma,March,3,2025,Male,2067
+Oklahoma,April,4,2025,Female,1879
+Oklahoma,April,4,2025,Male,1996
+Oklahoma,May,5,2025,Female,1919
+Oklahoma,May,5,2025,Male,2053
+Oklahoma,June,6,2025,Female,1918
+Oklahoma,June,6,2025,Male,1997
+Oklahoma,July,7,2025,Female,2106
+Oklahoma,July,7,2025,Male,2297
+Oklahoma,August,8,2025,Female,2110
+Oklahoma,August,8,2025,Male,2110
+Oklahoma,September,9,2025,Female,2077
+Oklahoma,September,9,2025,Male,2223
+Oklahoma,October,10,2025,Female,1921
+Oklahoma,October,10,2025,Male,2024
+Oklahoma,November,11,2025,Female,1788
+Oklahoma,November,11,2025,Male,1946
+Oklahoma,December,12,2025,Female,2131
+Oklahoma,December,12,2025,Male,2160
+Oregon,January,1,2025,Female,1572
+Oregon,January,1,2025,Male,1645
+Oregon,February,2,2025,Female,1486
+Oregon,February,2,2025,Male,1488
+Oregon,March,3,2025,Female,1661
+Oregon,March,3,2025,Male,1698
+Oregon,April,4,2025,Female,1597
+Oregon,April,4,2025,Male,1591
+Oregon,May,5,2025,Female,1647
+Oregon,May,5,2025,Male,1785
+Oregon,June,6,2025,Female,1637
+Oregon,June,6,2025,Male,1691
+Oregon,July,7,2025,Female,1706
+Oregon,July,7,2025,Male,1828
+Oregon,August,8,2025,Female,1633
+Oregon,August,8,2025,Male,1791
+Oregon,September,9,2025,Female,1627
+Oregon,September,9,2025,Male,1702
+Oregon,October,10,2025,Female,1614
+Oregon,October,10,2025,Male,1633
+Oregon,November,11,2025,Female,1520
+Oregon,November,11,2025,Male,1537
+Oregon,December,12,2025,Female,1494
+Oregon,December,12,2025,Male,1472
+Pennsylvania,January,1,2025,Female,5184
+Pennsylvania,January,1,2025,Male,5374
+Pennsylvania,February,2,2025,Female,4703
+Pennsylvania,February,2,2025,Male,4880
+Pennsylvania,March,3,2025,Female,5248
+Pennsylvania,March,3,2025,Male,5392
+Pennsylvania,April,4,2025,Female,5043
+Pennsylvania,April,4,2025,Male,5348
+Pennsylvania,May,5,2025,Female,5464
+Pennsylvania,May,5,2025,Male,5636
+Pennsylvania,June,6,2025,Female,5142
+Pennsylvania,June,6,2025,Male,5548
+Pennsylvania,July,7,2025,Female,5598
+Pennsylvania,July,7,2025,Male,5827
+Pennsylvania,August,8,2025,Female,5589
+Pennsylvania,August,8,2025,Male,5803
+Pennsylvania,September,9,2025,Female,5479
+Pennsylvania,September,9,2025,Male,5517
+Pennsylvania,October,10,2025,Female,5176
+Pennsylvania,October,10,2025,Male,5370
+Pennsylvania,November,11,2025,Female,4748
+Pennsylvania,November,11,2025,Male,5060
+Pennsylvania,December,12,2025,Female,5000
+Pennsylvania,December,12,2025,Male,5195
+Rhode Island,January,1,2025,Female,445
+Rhode Island,January,1,2025,Male,418
+Rhode Island,February,2,2025,Female,358
+Rhode Island,February,2,2025,Male,389
+Rhode Island,March,3,2025,Female,387
+Rhode Island,March,3,2025,Male,443
+Rhode Island,April,4,2025,Female,392
+Rhode Island,April,4,2025,Male,388
+Rhode Island,May,5,2025,Female,444
+Rhode Island,May,5,2025,Male,445
+Rhode Island,June,6,2025,Female,424
+Rhode Island,June,6,2025,Male,445
+Rhode Island,July,7,2025,Female,466
+Rhode Island,July,7,2025,Male,445
+Rhode Island,August,8,2025,Female,464
+Rhode Island,August,8,2025,Male,444
+Rhode Island,September,9,2025,Female,427
+Rhode Island,September,9,2025,Male,435
+Rhode Island,October,10,2025,Female,378
+Rhode Island,October,10,2025,Male,401
+Rhode Island,November,11,2025,Female,357
+Rhode Island,November,11,2025,Male,376
+Rhode Island,December,12,2025,Female,320
+Rhode Island,December,12,2025,Male,347
+South Carolina,January,1,2025,Female,2415
+South Carolina,January,1,2025,Male,2588
+South Carolina,February,2,2025,Female,2271
+South Carolina,February,2,2025,Male,2411
+South Carolina,March,3,2025,Female,2393
+South Carolina,March,3,2025,Male,2546
+South Carolina,April,4,2025,Female,2336
+South Carolina,April,4,2025,Male,2453
+South Carolina,May,5,2025,Female,2378
+South Carolina,May,5,2025,Male,2516
+South Carolina,June,6,2025,Female,2414
+South Carolina,June,6,2025,Male,2467
+South Carolina,July,7,2025,Female,2564
+South Carolina,July,7,2025,Male,2665
+South Carolina,August,8,2025,Female,2587
+South Carolina,August,8,2025,Male,2648
+South Carolina,September,9,2025,Female,2548
+South Carolina,September,9,2025,Male,2580
+South Carolina,October,10,2025,Female,2444
+South Carolina,October,10,2025,Male,2583
+South Carolina,November,11,2025,Female,2200
+South Carolina,November,11,2025,Male,2338
+South Carolina,December,12,2025,Female,2472
+South Carolina,December,12,2025,Male,2541
+South Dakota,January,1,2025,Female,437
+South Dakota,January,1,2025,Male,466
+South Dakota,February,2,2025,Female,399
+South Dakota,February,2,2025,Male,441
+South Dakota,March,3,2025,Female,506
+South Dakota,March,3,2025,Male,479
+South Dakota,April,4,2025,Female,469
+South Dakota,April,4,2025,Male,467
+South Dakota,May,5,2025,Female,462
+South Dakota,May,5,2025,Male,545
+South Dakota,June,6,2025,Female,451
+South Dakota,June,6,2025,Male,487
+South Dakota,July,7,2025,Female,525
+South Dakota,July,7,2025,Male,591
+South Dakota,August,8,2025,Female,476
+South Dakota,August,8,2025,Male,496
+South Dakota,September,9,2025,Female,505
+South Dakota,September,9,2025,Male,510
+South Dakota,October,10,2025,Female,468
+South Dakota,October,10,2025,Male,493
+South Dakota,November,11,2025,Female,432
+South Dakota,November,11,2025,Male,450
+South Dakota,December,12,2025,Female,500
+South Dakota,December,12,2025,Male,502
+Tennessee,January,1,2025,Female,3484
+Tennessee,January,1,2025,Male,3608
+Tennessee,February,2,2025,Female,3236
+Tennessee,February,2,2025,Male,3209
+Tennessee,March,3,2025,Female,3426
+Tennessee,March,3,2025,Male,3534
+Tennessee,April,4,2025,Female,3264
+Tennessee,April,4,2025,Male,3479
+Tennessee,May,5,2025,Female,3348
+Tennessee,May,5,2025,Male,3750
+Tennessee,June,6,2025,Female,3419
+Tennessee,June,6,2025,Male,3450
+Tennessee,July,7,2025,Female,3709
+Tennessee,July,7,2025,Male,3865
+Tennessee,August,8,2025,Female,3549
+Tennessee,August,8,2025,Male,3893
+Tennessee,September,9,2025,Female,3515
+Tennessee,September,9,2025,Male,3753
+Tennessee,October,10,2025,Female,3442
+Tennessee,October,10,2025,Male,3669
+Tennessee,November,11,2025,Female,3177
+Tennessee,November,11,2025,Male,3311
+Tennessee,December,12,2025,Female,3448
+Tennessee,December,12,2025,Male,3635
+Texas,January,1,2025,Female,16094
+Texas,January,1,2025,Male,16885
+Texas,February,2,2025,Female,14326
+Texas,February,2,2025,Male,14656
+Texas,March,3,2025,Female,15307
+Texas,March,3,2025,Male,15841
+Texas,April,4,2025,Female,14885
+Texas,April,4,2025,Male,15433
+Texas,May,5,2025,Female,15281
+Texas,May,5,2025,Male,16249
+Texas,June,6,2025,Female,15047
+Texas,June,6,2025,Male,15650
+Texas,July,7,2025,Female,16689
+Texas,July,7,2025,Male,17392
+Texas,August,8,2025,Female,16656
+Texas,August,8,2025,Male,17232
+Texas,September,9,2025,Female,16349
+Texas,September,9,2025,Male,17354
+Texas,October,10,2025,Female,16314
+Texas,October,10,2025,Male,16929
+Texas,November,11,2025,Female,14893
+Texas,November,11,2025,Male,15495
+Texas,December,12,2025,Female,16535
+Texas,December,12,2025,Male,17022
+Utah,January,1,2025,Female,1796
+Utah,January,1,2025,Male,1896
+Utah,February,2,2025,Female,1688
+Utah,February,2,2025,Male,1758
+Utah,March,3,2025,Female,1973
+Utah,March,3,2025,Male,1990
+Utah,April,4,2025,Female,1951
+Utah,April,4,2025,Male,1972
+Utah,May,5,2025,Female,2032
+Utah,May,5,2025,Male,2134
+Utah,June,6,2025,Female,2023
+Utah,June,6,2025,Male,2147
+Utah,July,7,2025,Female,2104
+Utah,July,7,2025,Male,2218
+Utah,August,8,2025,Female,2079
+Utah,August,8,2025,Male,2147
+Utah,September,9,2025,Female,1955
+Utah,September,9,2025,Male,2047
+Utah,October,10,2025,Female,1901
+Utah,October,10,2025,Male,2050
+Utah,November,11,2025,Female,1734
+Utah,November,11,2025,Male,1833
+Utah,December,12,2025,Female,1814
+Utah,December,12,2025,Male,1913
+Vermont,January,1,2025,Female,210
+Vermont,January,1,2025,Male,197
+Vermont,February,2,2025,Female,177
+Vermont,February,2,2025,Male,209
+Vermont,March,3,2025,Female,198
+Vermont,March,3,2025,Male,244
+Vermont,April,4,2025,Female,185
+Vermont,April,4,2025,Male,209
+Vermont,May,5,2025,Female,221
+Vermont,May,5,2025,Male,224
+Vermont,June,6,2025,Female,207
+Vermont,June,6,2025,Male,217
+Vermont,July,7,2025,Female,219
+Vermont,July,7,2025,Male,246
+Vermont,August,8,2025,Female,209
+Vermont,August,8,2025,Male,236
+Vermont,September,9,2025,Female,207
+Vermont,September,9,2025,Male,198
+Vermont,October,10,2025,Female,224
+Vermont,October,10,2025,Male,213
+Vermont,November,11,2025,Female,232
+Vermont,November,11,2025,Male,203
+Vermont,December,12,2025,Female,206
+Vermont,December,12,2025,Male,178
+Virginia,January,1,2025,Female,3830
+Virginia,January,1,2025,Male,4054
+Virginia,February,2,2025,Female,3491
+Virginia,February,2,2025,Male,3709
+Virginia,March,3,2025,Female,3803
+Virginia,March,3,2025,Male,3983
+Virginia,April,4,2025,Female,3702
+Virginia,April,4,2025,Male,3850
+Virginia,May,5,2025,Female,3898
+Virginia,May,5,2025,Male,4040
+Virginia,June,6,2025,Female,3833
+Virginia,June,6,2025,Male,3943
+Virginia,July,7,2025,Female,4012
+Virginia,July,7,2025,Male,4118
+Virginia,August,8,2025,Female,4069
+Virginia,August,8,2025,Male,4203
+Virginia,September,9,2025,Female,4001
+Virginia,September,9,2025,Male,4049
+Virginia,October,10,2025,Female,3853
+Virginia,October,10,2025,Male,3982
+Virginia,November,11,2025,Female,3575
+Virginia,November,11,2025,Male,3515
+Virginia,December,12,2025,Female,3694
+Virginia,December,12,2025,Male,3793
+Washington,January,1,2025,Female,3351
+Washington,January,1,2025,Male,3452
+Washington,February,2,2025,Female,3049
+Washington,February,2,2025,Male,3088
+Washington,March,3,2025,Female,3456
+Washington,March,3,2025,Male,3562
+Washington,April,4,2025,Female,3336
+Washington,April,4,2025,Male,3400
+Washington,May,5,2025,Female,3580
+Washington,May,5,2025,Male,3767
+Washington,June,6,2025,Female,3483
+Washington,June,6,2025,Male,3632
+Washington,July,7,2025,Female,3603
+Washington,July,7,2025,Male,3919
+Washington,August,8,2025,Female,3563
+Washington,August,8,2025,Male,3748
+Washington,September,9,2025,Female,3372
+Washington,September,9,2025,Male,3577
+Washington,October,10,2025,Female,3409
+Washington,October,10,2025,Male,3525
+Washington,November,11,2025,Female,3083
+Washington,November,11,2025,Male,3277
+Washington,December,12,2025,Female,3224
+Washington,December,12,2025,Male,3506
+West Virginia,January,1,2025,Female,713
+West Virginia,January,1,2025,Male,773
+West Virginia,February,2,2025,Female,648
+West Virginia,February,2,2025,Male,650
+West Virginia,March,3,2025,Female,738
+West Virginia,March,3,2025,Male,697
+West Virginia,April,4,2025,Female,647
+West Virginia,April,4,2025,Male,719
+West Virginia,May,5,2025,Female,692
+West Virginia,May,5,2025,Male,702
+West Virginia,June,6,2025,Female,687
+West Virginia,June,6,2025,Male,716
+West Virginia,July,7,2025,Female,783
+West Virginia,July,7,2025,Male,798
+West Virginia,August,8,2025,Female,672
+West Virginia,August,8,2025,Male,782
+West Virginia,September,9,2025,Female,695
+West Virginia,September,9,2025,Male,735
+West Virginia,October,10,2025,Female,755
+West Virginia,October,10,2025,Male,720
+West Virginia,November,11,2025,Female,618
+West Virginia,November,11,2025,Male,686
+West Virginia,December,12,2025,Female,610
+West Virginia,December,12,2025,Male,695
+Wisconsin,January,1,2025,Female,2399
+Wisconsin,January,1,2025,Male,2439
+Wisconsin,February,2,2025,Female,2191
+Wisconsin,February,2,2025,Male,2324
+Wisconsin,March,3,2025,Female,2443
+Wisconsin,March,3,2025,Male,2545
+Wisconsin,April,4,2025,Female,2376
+Wisconsin,April,4,2025,Male,2450
+Wisconsin,May,5,2025,Female,2489
+Wisconsin,May,5,2025,Male,2651
+Wisconsin,June,6,2025,Female,2464
+Wisconsin,June,6,2025,Male,2613
+Wisconsin,July,7,2025,Female,2618
+Wisconsin,July,7,2025,Male,2822
+Wisconsin,August,8,2025,Female,2604
+Wisconsin,August,8,2025,Male,2782
+Wisconsin,September,9,2025,Female,2443
+Wisconsin,September,9,2025,Male,2524
+Wisconsin,October,10,2025,Female,2395
+Wisconsin,October,10,2025,Male,2580
+Wisconsin,November,11,2025,Female,2268
+Wisconsin,November,11,2025,Male,2327
+Wisconsin,December,12,2025,Female,2335
+Wisconsin,December,12,2025,Male,2452
+Wyoming,January,1,2025,Female,262
+Wyoming,January,1,2025,Male,264
+Wyoming,February,2,2025,Female,215
+Wyoming,February,2,2025,Male,258
+Wyoming,March,3,2025,Female,254
+Wyoming,March,3,2025,Male,276
+Wyoming,April,4,2025,Female,252
+Wyoming,April,4,2025,Male,264
+Wyoming,May,5,2025,Female,268
+Wyoming,May,5,2025,Male,272
+Wyoming,June,6,2025,Female,252
+Wyoming,June,6,2025,Male,253
+Wyoming,July,7,2025,Female,258
+Wyoming,July,7,2025,Male,300
+Wyoming,August,8,2025,Female,282
+Wyoming,August,8,2025,Male,312
+Wyoming,September,9,2025,Female,232
+Wyoming,September,9,2025,Male,251
+Wyoming,October,10,2025,Female,260
+Wyoming,October,10,2025,Male,230
+Wyoming,November,11,2025,Female,225
+Wyoming,November,11,2025,Male,226
+Wyoming,December,12,2025,Female,258
+Wyoming,December,12,2025,Male,277
