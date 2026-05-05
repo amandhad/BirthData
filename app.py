@@ -1,197 +1,136 @@
 import streamlit as st
 import pandas as pd
+import numpy as np
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import (
+    accuracy_score, classification_report,
+    confusion_matrix, roc_auc_score
+)
 import plotly.express as px
 
-# ---------------------------------
-# Page Config
-# ---------------------------------
-st.set_page_config(layout="wide")
-st.title("NovaRetail Customer Intelligence Dashboard")
-st.subheader("Interactive Dashboard for Decision Making")
-
-# ---------------------------------
+# ----------------------------
 # Load Data
-# ---------------------------------
-try:
-    df = pd.read_excel("NR_dataset.xlsx")
-except FileNotFoundError:
-    st.error("Dataset file not found in repository.")
-    st.stop()
+# ----------------------------
+df = pd.read_csv("WA_Fn-UseC_-HR-Employee-Attrition.csv")
 
-# Normalize column names
-df.columns = (
-    df.columns
-    .str.strip()
-    .str.lower()
-    .str.replace(" ", "_")
+# Encode target
+df['Attrition'] = df['Attrition'].map({'Yes': 1, 'No': 0})
+df['OverTime'] = df['OverTime'].map({'Yes': 1, 'No': 0})
+
+# Drop useless columns
+df = df.drop(['EmployeeCount', 'Over18', 'StandardHours'], axis=1)
+
+# One-hot encoding
+df = pd.get_dummies(df, drop_first=True)
+
+# Split
+X = df.drop('Attrition', axis=1)
+y = df['Attrition']
+
+scaler = StandardScaler()
+X_scaled = scaler.fit_transform(X)
+
+X_train, X_test, y_train, y_test = train_test_split(
+    X_scaled, y, test_size=0.2, random_state=42
 )
 
-# Required fields
-required_fields = {
-    "label",
-    "customerid",
-    "transactionid",
-    "transactiondate",
-    "productcategory",
-    "purchaseamount",
-    "customeragegroup",
-    "customergender",
-    "customerregion",
-    "customersatisfaction",
-    "retailchannel"
-}
+# ----------------------------
+# Model
+# ----------------------------
+model = RandomForestClassifier(
+    class_weight='balanced',
+    random_state=42,
+    n_estimators=200
+)
+model.fit(X_train, y_train)
 
-missing_fields = required_fields - set(df.columns)
-if missing_fields:
-    st.error(f"Missing required fields: {sorted(list(missing_fields))}")
-    st.write(df.columns)
-    st.stop()
+# ----------------------------
+# Evaluation
+# ----------------------------
+y_pred = model.predict(X_test)
+y_proba = model.predict_proba(X_test)[:, 1]
 
-# Data cleaning
-df["purchaseamount"] = pd.to_numeric(df["purchaseamount"], errors="coerce")
-df["customersatisfaction"] = pd.to_numeric(df["customersatisfaction"], errors="coerce")
-df["transactiondate"] = pd.to_datetime(df["transactiondate"], errors="coerce")
-df = df.dropna(subset=["purchaseamount"])
+acc = accuracy_score(y_test, y_pred)
+auc = roc_auc_score(y_test, y_proba)
+report = classification_report(y_test, y_pred, output_dict=False)
+cm = confusion_matrix(y_test, y_pred)
 
-# ---------------------------------
-# Sidebar Filters
-# ---------------------------------
-st.sidebar.header("Filters")
+# ----------------------------
+# UI
+# ----------------------------
+st.title("📊 Employee Attrition Prediction Dashboard")
+st.write("Predict whether an employee is at risk of leaving based on their profile.")
 
-def multiselect_all(label, values):
-    clean_values = (
-        pd.Series(values)
-        .dropna()
-        .astype(str)
-        .unique()
-        .tolist()
-    )
-
-    clean_values = sorted(clean_values)
-
-    return st.sidebar.multiselect(
-        label,
-        ["All"] + clean_values,
-        default=["All"]
-    )
-
-segments = multiselect_all("Customer Segment", df["label"])
-regions = multiselect_all("Region", df["customerregion"])
-categories = multiselect_all("Product Category", df["productcategory"])
-channels = multiselect_all("Retail Channel", df["retailchannel"])
-
-# ---------------------------------
-# Filtering Logic
-# ---------------------------------
-filtered_df = df.copy()
-
-if "All" not in segments:
-    filtered_df = filtered_df[filtered_df["label"].astype(str).isin(segments)]
-
-if "All" not in regions:
-    filtered_df = filtered_df[filtered_df["customerregion"].astype(str).isin(regions)]
-
-if "All" not in categories:
-    filtered_df = filtered_df[filtered_df["productcategory"].astype(str).isin(categories)]
-
-if "All" not in channels:
-    filtered_df = filtered_df[filtered_df["retailchannel"].astype(str).isin(channels)]
-
-if filtered_df.empty:
-    st.warning("No data available for the selected filters.")
-    st.stop()
-
-# ---------------------------------
-# KPIs
-# ---------------------------------
-total_revenue = filtered_df["purchaseamount"].sum()
-unique_customers = filtered_df["customerid"].nunique()
-avg_satisfaction = filtered_df["customersatisfaction"].mean()
-
-k1, k2, k3 = st.columns(3)
-k1.metric("Total Revenue ($)", f"{total_revenue:,.0f}")
-k2.metric("Unique Customers", unique_customers)
-k3.metric("Avg. Satisfaction", f"{avg_satisfaction:.2f}")
-
-# ---------------------------------
-# Charts
-# ---------------------------------
+# Model performance
+st.subheader("🎯 Model Performance")
 col1, col2 = st.columns(2)
+col1.metric("Accuracy", f"{acc:.1%}")
+col2.metric("ROC-AUC", f"{auc:.3f}")
 
-# Revenue by Segment
-segment_revenue = (
-    filtered_df
-    .groupby("label", as_index=False)["purchaseamount"]
-    .sum()
-    .sort_values("label")
-)
+with st.expander("Detailed metrics"):
+    st.text("Classification Report:")
+    st.text(report)
+    st.text("Confusion Matrix (rows = actual, cols = predicted):")
+    st.write(pd.DataFrame(
+        cm,
+        index=["Actual Stay", "Actual Leave"],
+        columns=["Pred Stay", "Pred Leave"]
+    ))
 
-fig_segment = px.bar(
-    segment_revenue,
-    x="label",
-    y="purchaseamount",
-    title="Revenue by Customer Segment",
-    labels={"label": "Customer Segment", "purchaseamount": "Revenue ($)"}
-)
+# ----------------------------
+# EDA Section
+# ----------------------------
+st.subheader("📈 Attrition Insights")
 
-fig_segment.update_layout(plot_bgcolor="white", paper_bgcolor="white")
-col1.plotly_chart(fig_segment, use_container_width=True)
+fig1 = px.histogram(df, x="Attrition", title="Attrition Distribution")
+st.plotly_chart(fig1)
 
-# Revenue by Region
-region_revenue = (
-    filtered_df
-    .groupby("customerregion", as_index=False)["purchaseamount"]
-    .sum()
-    .sort_values("customerregion")
-)
+# ----------------------------
+# USER INPUT
+# ----------------------------
+st.subheader("🧑‍💼 Enter Employee Information")
 
-fig_region = px.bar(
-    region_revenue,
-    x="customerregion",
-    y="purchaseamount",
-    title="Revenue by Region",
-    labels={"customerregion": "Region", "purchaseamount": "Revenue ($)"}
-)
+age = st.slider("Age", 18, 60, 30)
+income = st.slider("Monthly Income", 1000, 20000, 5000)
+overtime = st.selectbox("Overtime", ["No", "Yes"])
+job_sat = st.slider("Job Satisfaction (1-4)", 1, 4, 3)
+years = st.slider("Years at Company", 0, 40, 5)
 
-fig_region.update_layout(plot_bgcolor="white", paper_bgcolor="white")
-col2.plotly_chart(fig_region, use_container_width=True)
+# Convert input
+input_data = pd.DataFrame({
+    'Age': [age],
+    'MonthlyIncome': [income],
+    'OverTime': [1 if overtime == "Yes" else 0],
+    'JobSatisfaction': [job_sat],
+    'YearsAtCompany': [years]
+})
 
-# ---------------------------------
-# Satisfaction vs Revenue
-# ---------------------------------
-st.subheader("Customer Satisfaction vs Revenue")
+# Align columns
+input_data = input_data.reindex(columns=X.columns, fill_value=0)
 
-sat_rev = (
-    filtered_df
-    .groupby("label", as_index=False)
-    .agg(
-        avg_satisfaction=("customersatisfaction", "mean"),
-        total_revenue=("purchaseamount", "sum")
-    )
-)
+input_scaled = scaler.transform(input_data)
 
-fig_scatter = px.scatter(
-    sat_rev,
-    x="avg_satisfaction",
-    y="total_revenue",
-    color="label",
-    size="total_revenue",
-    title="Customer Segment Risk & Opportunity Analysis",
-    labels={
-        "avg_satisfaction": "Average Satisfaction",
-        "total_revenue": "Total Revenue ($)",
-        "label": "Customer Segment"
-    }
-)
+# ----------------------------
+# PREDICTION
+# ----------------------------
+if st.button("Predict Attrition Risk"):
+    prediction = model.predict(input_scaled)[0]
+    prob = model.predict_proba(input_scaled)[0][1]
 
-fig_scatter.update_layout(plot_bgcolor="white", paper_bgcolor="white")
-st.plotly_chart(fig_scatter, use_container_width=True)
+    if prediction == 1:
+        st.error(f"⚠️ High Risk of Attrition ({prob:.2f})")
+    else:
+        st.success(f"✅ Low Risk of Attrition ({prob:.2f})")
 
-# ---------------------------------
-# Data Table
-# ---------------------------------
-st.subheader("Filtered Transaction Data")
-st.dataframe(
-    filtered_df.reset_index(drop=True),
-    use_container_width=True
-)
+    st.subheader("📊 Feature Importance")
+
+    importance = model.feature_importances_
+    feat_df = pd.DataFrame({
+        'Feature': X.columns,
+        'Importance': importance
+    }).sort_values(by="Importance", ascending=False).head(10)
+
+    fig2 = px.bar(feat_df, x="Importance", y="Feature", orientation='h')
+    st.plotly_chart(fig2)
